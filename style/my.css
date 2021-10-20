@@ -1,0 +1,798 @@
+a:hover{
+	background-color: #1F1F1F;
+	color: #FFFFFF
+}
+
+.Phone{position: flex;
+width: 355px;
+height: 16px;
+justify-content: space-between;
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 16px;
+
+/* identical to box height */
+
+/* gray */
+color: #969696;}
+
+.rect1 {position: flex;
+width: 1920px;
+height: 44px;
+
+
+background: #000000;}
+
+.Enter {position: flex;
+width: 107px;
+height: 16px;
+
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 16px;
+
+/* identical to box height */
+text-align: right;
+
+/* gray */
+color: #969696;}
+
+.rect2 {position: absolute;
+width: 1920px;
+height: 80px;
+left: 0px;
+top: 44px;
+
+background: #0F0F0F;}
+
+.PORTEN {position: absolute;
+width: 104px;
+height: 49px;
+left: 405px;
+top: -25px;
+
+font-family: Post No Bills Jaffna;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 54px;
+text-align: center;
+color: #FFFFFF;}
+
+.Like {position: absolute;
+width: 105px;
+height: 80px;
+left: 998px;
+top: 0px;    
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+text-transform: uppercase;
+
+color: #969696;}
+
+.Cabinet {position: absolute;
+width: 130px;
+height: 18px;
+left: 1134px;
+top: 25px;
+
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+text-transform: uppercase;
+vertical-align: middle;
+/* gray */
+color: #969696;}
+
+.settings {position: absolute;
+width: 78px;
+height: 18px;
+left: 1293px;
+top: 25px;
+
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 18px;
+text-transform: uppercase;
+vertical-align: middle;
+/* gray */
+color: #969696;}
+
+.rect4 {position: absolute;
+width: 1920px;
+height: 810px;
+left: 0px;
+top: 124px;
+
+background: linear-gradient(0deg, rgba(15, 15, 15, 0.5), rgba(15, 15, 15, 0.5)), url(.jpg);}
+
+.PORTEN2 {position: absolute;
+width: 185px;
+height: 86px;
+left: 835px;
+top: 300px;
+
+font-family: Post No Bills Jaffna;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 96px;
+text-align: center;
+
+color: #FFFFFF;}
+
+hr{position: absolute;
+width: 179px;
+height: 0px;
+left: 870px;
+top: 450px;
+
+border: 2px solid #FFFFFF;}
+
+.rect5 {position: absolute;
+width: 320px;
+height: 320px;
+left: 800px;
+top: 284px;
+
+border: 4px solid #FFFFFF;
+box-sizing: border-box;}
+
+.Peter{position: absolute;
+width: 300px;
+height: 44px;
+left: 815px;
+top: 466px;
+
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 28px;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;}
+
+.Season {
+	position: absolute;
+width: 376px;
+height: 39px;
+left: 332px;
+top: 75px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+text-align: center;
+text-transform: uppercase;
+
+/* white */
+color: #FFFFFF;
+}
+
+.rect6 {
+position: absolute;
+width: 1040px;
+height: 730px;
+left: 0px;
+top: 934px;
+
+background: #000000;
+}
+
+.IMG1 {
+	position: absolute;
+width: 215px;
+height: 214px;
+left: 103px;
+top: 250px;
+}
+
+
+.IMG2 {
+	position: absolute;
+width: 215px;
+height: 214px;
+left: 413px;
+top: 250px;
+}
+
+
+.IMG3 {
+	position: absolute;
+width: 215px;
+height: 214px;
+left: 723px;
+top: 250px;
+}
+
+.hr1{position: absolute;
+width: 120px;
+height: 0px;
+left: 460px;
+top: 200px;
+
+/* white */
+border: 1px solid #FFFFFF;}
+
+.Louis1 {
+
+position: absolute;
+width: 145px;
+height: 24px;
+left: 103px;
+top: 480px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 24px;
+
+/* identical to box height */
+
+/* white */
+color: #FFFFFF;
+}
+
+.Louis2 {
+
+position: absolute;
+width: 145px;
+height: 24px;
+left: 413px;
+top: 480px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 24px;
+
+/* identical to box height */
+
+/* white */
+color: #FFFFFF;
+}
+
+.Louis3 {
+
+position: absolute;
+width: 145px;
+height: 24px;
+left: 723px;
+top: 480px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 24px;
+
+/* identical to box height */
+
+/* white */
+color: #FFFFFF;
+}
+
+.Cost1 {
+	position: absolute;
+width: 92px;
+height: 21px;
+left: 103px;
+top: 520px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 21px;
+
+/* light-gray */
+color: #D0D0D0;
+}
+
+.Cost2 {
+position: absolute;
+width: 92px;
+height: 21px;
+left: 413px;
+top: 520px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 21px;
+
+/* light-gray */
+color: #D0D0D0;
+}
+
+.Cost3 {
+	position: absolute;
+width: 92px;
+height: 21px;
+left: 723px;
+top: 520px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 21px;
+
+/* light-gray */
+color: #D0D0D0;
+}
+
+.rect7 {
+	position: absolute;
+width: 880px;
+height: 730px;
+left: 1040px;
+top: 934px;
+
+background: linear-gradient(0deg, rgba(15, 15, 15, 0.5), rgba(15, 15, 15, 0.5)), url(.jpg), #000000;
+}
+
+.NC {
+position: absolute;
+width: 376px;
+height: 39px;
+left: 1292px;
+top: 1400px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+text-align: center;
+text-transform: uppercase;
+
+/* white */
+color: #FFFFFF;
+}
+
+.Catalog {
+	position: static;
+width: 82px;
+height: 23px;
+left: 28px;
+top: 12px;
+}
+
+.rect8 {
+	position: absolute;
+width: 880px;
+height: 600px;
+left: 0px;
+top: 1664px;
+
+background: linear-gradient(0deg, rgba(15, 15, 15, 0.5), rgba(15, 15, 15, 0.5)), url(.jpg), #000000;
+}
+
+.rect9 {
+	position: absolute;
+width: 1040px;
+height: 600px;
+left: 880px;
+top: 1664px;
+
+background: #000000;
+}
+
+.coll2018 {
+	position: absolute;
+width: 376px;
+height: 39px;
+left: 412px;
+top: 64px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 48px;
+text-align: center;
+text-transform: uppercase;
+
+/* white */
+color: #FFFFFF;
+}
+
+.hr2 {
+	position: absolute;
+width: 120px;
+height: 0px;
+left: 540px;
+top: 164px;
+
+/* white */
+border: 1px solid #FFFFFF;
+}
+
+.lorem3 {
+	position: absolute;
+width: 471px;
+height: 173px;
+left: 362px;
+top: 183px;
+
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+
+/* or 21px */
+text-align: center;
+
+/* white */
+color: #FFFFFF;
+}
+
+.seecol{
+	position: absolute;
+width: 305px;
+height: 23px;
+left: 428px;
+top: 412px;
+
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 23px;
+text-align: center;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+
+/* white */
+color: #FFFFFF;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+}
+
+.rect10{position: absolute;
+width: 1920px;
+height: 1289px;
+left: 0px;
+top: 2264px;
+
+background: #000000;}
+
+.inc{
+position: absolute;
+width: 640px;
+height: 48px;
+left: 700px;
+top: 84px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+
+/* identical to box height */
+text-align: center;
+text-transform: uppercase;
+
+/* white */
+color: #FFFFFF;}
+
+.hr3 {
+	position: absolute;
+width: 120px;
+height: 0px;
+left: 950px;
+top: 202px;
+
+/* white */
+border: 1px solid #FFFFFF;
+}
+
+.IMG4 {
+	position: absolute;
+width: 260px;
+height: 325px;
+top: 308px;
+}
+
+.Louis4 {
+	position: absolute;
+width: 200px;
+height: 24px;
+top: 633px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 24px;
+
+/* identical to box height */
+
+/* white */
+color: #FFFFFF;
+}
+
+.Cost4 {
+position: absolute;
+width: 92px;
+height: 21px;
+top: 667px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 21px;
+
+/* light-gray */
+color: #D0D0D0;
+}
+
+.IMG5{
+	position: absolute;
+width: 260px;
+height: 325px;
+top: 748px;
+}
+
+.Louis5 {
+	position: absolute;
+width: 200px;
+height: 24px;	
+top: 1078px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 24px;
+
+/* identical to box height */
+
+/* white */
+color: #FFFFFF;
+}
+
+.Cost5{
+	position: absolute;
+width: 92px;
+height: 21px;
+top: 1112px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 21px;
+
+/* light-gray */
+color: #D0D0D0;
+}
+
+.rect11{
+	position: absolute;
+width: 1920px;
+height: 362px;
+left: 0px;
+top: 3553px;
+
+background: #0F0F0F;
+}
+
+.brends{
+	position: absolute;
+width: 289px;
+height: 48px;
+left: 816px;
+top: 13px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+
+/* identical to box height */
+text-align: center;
+text-transform: uppercase;
+
+/* white */
+color: #FFFFFF;
+}
+
+.hr4{
+	position: absolute;
+width: 120px;
+height: 0px;
+left: 900px;
+top: 141px;
+
+/* white */
+border: 1px solid #FFFFFF;
+}
+
+.IMG6{
+	position: absolute;
+width: 255px;
+height: 94px;
+top: 201px;
+}
+
+.rect12 {
+	position: absolute;
+width: 1920px;
+height: 400px;
+left: 0px;
+top: 3909px;
+
+background: linear-gradient(0deg, rgba(15, 15, 15, 0.85), rgba(15, 15, 15, 0.85)), url(.jpg), #C4C4C4
+}
+
+.infoshop{
+	position: absolute;
+height: 32px;
+top: 3989px;
+
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+
+/* identical to box height */
+text-transform: uppercase;
+
+/* white */
+color: #FFFFFF;
+}
+
+.lorem4 {
+	position: absolute;
+width: 350px;
+top: 4061px;
+
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+
+/* or 21px */
+
+/* white */
+color: #FFFFFF;
+}
+
+.acssesor {
+	position: absolute;
+
+height: 21px;
+top: 4061px;
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+
+/* identical to box height, or 21px */
+
+/* light-gray */
+color: #D0D0D0;
+background: #0F0F0F;
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+
+}
+
+.input{
+	position: absolute;
+height: 42px;
+top: 4140px;
+
+background: rgba(255, 255, 255, 0.4);
+}
+
+.input2{
+	display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px 20px;
+
+position: absolute;
+width: 160px;
+height: 45px;
+left: 1375px;
+top: 4141px;
+
+background: #0F0F0F;
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+
+/* identical to box height, or 21px */
+letter-spacing: 0.05em;
+
+/* white */
+color: #FFFFFF;}
+
+.rect15{
+	position: absolute;
+width: 1920px;
+height: 50px;
+left: 0px;
+top: 4307px;
+
+background: #0F0F0F;
+}
+
+.made{
+position: absolute;
+width: 155px;
+height: 16px;
+left: 1360px;
+top: 10px;
+
+font-family: PT Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 16px;
+
+/* identical to box height */
+text-align: right;
+text-decoration-line: underline;
+
+/* light-gray */
+color: #D0D0D0;
+}
+
+.rights{
+	position: absolute;
+width: 155px;
+height: 16px;
+left: 405px;
+top: 10px;
+
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 16px;
+
+/* identical to box height */
+
+/* light-gray */
+color: #D0D0D0;
+}

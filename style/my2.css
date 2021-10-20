@@ -1,0 +1,248 @@
+a:hover{
+	background-color: #1F1F1F;
+	color: #FFFFFF
+}
+@media(max-width: 768px){
+.main-7{
+	 	display: flex;
+	 	align-items: center;
+	 	 background-image: url('Rectangle 9.svg');
+}
+ .main-5 {
+	 	display: flex;
+	 	flex-direction: column;
+			justify-content: center;
+			align-items: center;
+	 }
+	 .main-6 {
+	 	display: flex;
+	 	flex-direction: column-reverse;
+	 	background-image: url('Rectangle 8.svg');
+	 	align-items: center;
+	 	justify-content: flex-start;
+	 }
+}
+@media(min-width: 768px){
+.main-7{
+	 	display: flex;
+	 	flex-basis: 40%;
+	 	align-items: center;
+	 	 background-image: url('Rectangle 9.svg');
+	 }
+	 .main-5 {
+	 	display: flex;
+	 	flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			flex-basis: 60%;
+	 }
+	 .main-6 {
+	 	display: flex;
+	 	flex-direction: column-reverse;
+	 	background-image: url('Rectangle 8.svg');
+	 	flex-basis: 40%;
+	 	align-items: center;
+	 	justify-content: flex-start;
+	 }
+}
+		.main{
+			display: flex;
+			height: 44px;
+			justify-content: space-around;
+			align-items: center;
+		}
+		.main-2{
+			display: flex;
+			justify-content: space-around;
+			align-items: center;
+	}
+	 .main-4{
+	 	display: flex;
+	 	flex-wrap: wrap;
+	 	 justify-content: space-around;
+	 }
+	 .main-8 {
+	 	display: flex;
+	 	flex-direction: column;
+			flex-basis: 30%;
+			margin: 80px 0px 93px 0px;
+			min-width: 300px;
+			justify-content: space-between;
+	 }
+	.main, .main-2, .main-5 {
+		background: #000000;
+	}
+		.main-3{
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			background-image: url('Rectangle 3.svg');
+		}
+.main-9{
+	display: flex;
+	justify-content: space-between;
+}
+	.Phone{
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+color: #969696;
+font-size: 12px;
+margin: auto;
+}
+
+.PORTEN {
+font-family: Post No Bills Jaffna;
+font-style: normal;
+font-weight: bold;
+text-align: center;
+color: #FFFFFF;
+font-size: 36px;
+margin: auto;}
+
+.Cabinet {
+	font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+text-transform: uppercase;
+height: 80px;
+color: #969696;
+margin: 0px 5px;
+display: flex;
+align-items: center;
+text-decoration: none
+}	
+
+.PORTEN2 {
+	font-family: Post No Bills Jaffna;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+text-align: center;
+margin: 34px 0px 0px 0px;
+color: #FFFFFF;
+}
+
+.hr1{
+	width: 179px;
+height: 0px;
+color: #FFFFFF;
+}
+
+.lorem {
+	font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 150%;
+max-width: 700px;
+/* or 24px */
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.peter{
+	font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 28px;
+text-align: center;
+text-transform: uppercase;
+margin: 0px 0px 32px 0px;
+color: #FFFFFF;
+}
+
+.Season {
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+text-align: center;
+text-transform: uppercase;
+
+/* white */
+color: #FFFFFF;
+}
+
+.Louis1{
+	font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 24px;
+margin: 18px 0px 0px 0px;
+color: #FFFFFF;
+}
+
+.NC {
+	font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 36px;
+text-align: center;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+.cat{
+	border: 1px solid ; 
+	padding: 1em;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	margin: 28px 0px 58px 0px;
+	text-decoration: none
+}
+
+.infoshop{
+font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+
+/* identical to box height */
+text-transform: uppercase;
+
+/* white */
+color: #FFFFFF;
+}
+
+.acssesor {
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+border:0px; 
+padding: 1em; 
+text-decoration: none;
+background: #0F0F0F;
+color: #D0D0D0;
+}
+
+.input{
+background: rgba(255, 255, 255, 0.4);
+padding: 1em;
+border:0px;
+width: 170px;
+}
+
+.input2{
+background: #0F0F0F;
+font-family: PT Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 150%;
+padding: 1em;
+/* identical to box height, or 21px */
+letter-spacing: 0.05em;
+border:0px;
+/* white */
+color: #FFFFFF;}
