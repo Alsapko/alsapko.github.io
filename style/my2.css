@@ -2,12 +2,24 @@ a:hover{
 	background-color: #1F1F1F;
 	color: #FFFFFF
 }
+::-webkit-input-placeholder { /* WebKit browsers */
+    color:    white;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color:    white;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color:    white;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color:    white;
+}
 @media(min-width: 768px){
 .main-7{
 	 	display: flex;
 	 	flex-basis: 40%;
 	 	align-items: center;
-	 	 background: url('Rectangle 9.svg') center;
+	 	 background: url('Rectangle 9.jpg') center;
 	 }
 	 .main-5 {
 	 	display: flex;
@@ -77,8 +89,7 @@ text-decoration: none
 }
 
 .PORTEN {
-font-family: Post No Bills Jaffna;
-font-style: normal;
+font-family: 'Post No Bills Jaffna', sans-serif;
 font-weight: bold;
 text-align: center;
 color: #FFFFFF;
@@ -107,7 +118,7 @@ padding: 0px 5px;
 }	
 
 .PORTEN2 {
-	font-family: Post No Bills Jaffna;
+font-family: 'Post No Bills Jaffna', sans-serif;
 font-style: normal;
 font-weight: bold;
 font-size: 64px;
@@ -228,6 +239,8 @@ padding: 1em;
 border:0px;
 width: 170px;
 flex-basis: 60%;
+color: white;
+margin-right: 5px;
 }
 
 .input2{
@@ -238,7 +251,7 @@ font-weight: normal;
 font-size: 14px;
 line-height: 150%;
 padding: 1em;
-flex-basis: 40%;
+flex-basis: 39%;
 letter-spacing: 0.05em;
 border:0px;
 /* white */
