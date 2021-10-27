@@ -14,6 +14,10 @@ a:hover{
 :-ms-input-placeholder { /* Internet Explorer 10+ */
     color:    white;
 }
+ @font-face {
+    font-family: Post No Bills Jaffna; /* Гарнитура шрифта */
+    src: url('Post No Bills Jaffna Regular 400.ttf'); /* Путь к файлу со шрифтом */
+   }
 @media(min-width: 768px){
 .main-7{
 	 	display: flex;
