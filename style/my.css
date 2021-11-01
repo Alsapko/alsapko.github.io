@@ -8,7 +8,73 @@ html,body{
 	height: 100%;
 	font-family: arial;
 }
+.swiper {
+	flex-basis: 60%;
+	width: auto;
+}
+.swiper-slide img{
+	max-width: 100%;
+}
+.swiper-wrapper{
+height: 390px !important;
+justify-content: space-around;
+}
 
+.swiper-slide{
+width: 251.02px !important;
+display: flex;
+justify-content: center;
+margin: 0px 50px !important;
+}
+.Louis1{
+	font-family: Playfair Display;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 24px;
+margin: 18px 0px 0px 0px;
+color: #FFFFFF;
+}
+
+.hr1{
+	width: 120px;
+	opacity: 1;
+}
+.Season {
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+text-align: center;
+text-transform: uppercase;
+margin: 93px 0px 36px 0px;
+/* white */
+color: #FFFFFF;
+}
+ .main-5 {
+	 	display: flex;
+	 	flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			flex-basis: 60%;}
+.main-4{
+	 	display: flex;
+	 	flex-wrap: wrap;
+	 	 justify-content: space-around;
+	 	 background: center;
+	 }
+	 .swiper-pagination{
+	 	bottom: 0px !important;
+	 }
+	.swiper-pagination-bullet{
+		background-color: white !important; 
+		width: 	16px !important;
+		height: 16px !important;
+	}
+	.swiper-button-next, .swiper-button-prev{
+		color: white !important;
+	}
 .wrapper{
 
 }

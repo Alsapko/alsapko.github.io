@@ -33,7 +33,14 @@ a:hover{
 			justify-content: center;
 			align-items: center;
 			flex-basis: 60%;
-	 }
+			 }
+
+	.main-5.cont {
+			max-width: 60%; 	
+			 }
+	.main-4.inc {
+			width: 60%; 	
+			 }
 	 .main-6 {
 	 	display: flex;
 	 	flex-direction: column-reverse;
@@ -87,6 +94,33 @@ a:hover{
 	display: flex;
 	justify-content: space-between;
 }
+.swiper {
+	width: auto;
+}
+.swiper-slide img{
+	max-width: 100%;
+}
+.swiper-wrapper{
+justify-content: space-around;
+}
+
+.swiper-slide{
+width: 251.02px !important;
+display: flex;
+justify-content: center;
+margin: 0px 30px 0px 40px !important;
+}
+.swiper-pagination{
+	 	bottom: 0px !important;
+	 }
+	.swiper-pagination-bullet{
+		background-color: white !important; 
+		width: 	16px !important;
+		height: 16px !important;
+	}
+	.swiper-button-next, .swiper-button-prev{
+		color: white !important;
+	}
 	.Phone{
 font-family: PT Sans;
 font-style: normal;
@@ -303,6 +337,9 @@ color: #FFFFFF;}
 	body.lock{
 		overflow: hidden;
 	}
+	.main-4.inc {
+			width: 90%; 	
+			 }
 	.ic{
 		font-size: 24px;
 		font-size: 24px;
