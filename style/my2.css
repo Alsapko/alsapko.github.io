@@ -34,7 +34,12 @@ a:hover{
 			align-items: center;
 			flex-basis: 60%;
 			 }
-
+	.swiper {
+	display: none;
+			}
+	.swiper2 {
+	display: none;
+			}
 	.main-5.cont {
 			max-width: 60%; 	
 			 }
@@ -97,6 +102,9 @@ a:hover{
 .swiper {
 	width: auto;
 }
+.swiper2 {
+	width: auto;
+}
 .swiper-slide img{
 	max-width: 100%;
 }
@@ -105,10 +113,8 @@ justify-content: space-around;
 }
 
 .swiper-slide{
-width: 251.02px !important;
 display: flex;
 justify-content: center;
-margin: 0px 30px 0px 40px !important;
 }
 .swiper-pagination{
 	 	bottom: 0px !important;
@@ -336,6 +342,9 @@ color: #FFFFFF;}
 @media(max-width: 768px){
 	body.lock{
 		overflow: hidden;
+	}
+	.dir {
+		display: none;
 	}
 	.main-4.inc {
 			width: 90%; 	
