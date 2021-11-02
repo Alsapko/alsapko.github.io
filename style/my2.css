@@ -27,6 +27,10 @@ a:hover{
 	 	 background-size: cover;
 	 	 background-repeat: no-repeat;
 	 }
+	 .m4{
+		margin: 0px 0px 93px 0px; 
+		min-width: 0;	
+		}
 	 .main-5 {
 	 	display: flex;
 	 	flex-direction: column;
@@ -57,6 +61,41 @@ a:hover{
 	 	background-repeat: no-repeat;
 	 	width: 100%;
 	 }
+	 @media(max-width: 1200px){
+	 	.main-7{
+	 	display: flex;
+	 	flex-basis: 100%;
+	 	align-items: center;
+	 	 background: url('Rectangle 9.jpg') center;
+	 	 background-size: cover;
+	 	 background-repeat: no-repeat;
+	 	 width: 100%;
+	 	 height: 600px;
+}
+.NC{
+	margin-top: 50px;
+}
+.main-5.cont {
+			max-width: 100%; 	
+			 }
+ .main-5 {
+	 	display: flex;
+	 	flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			flex-basis: 100%;
+	 }
+	 .main-6 {
+	 	display: flex;
+	 	flex-direction: column-reverse;
+	 	align-items: center;
+	 	justify-content: flex-start;
+	 	background: url('Rectangle 8.svg') center;
+	 	width: 100%;
+	 	height: 100%;
+	 	flex-basis: 100%;
+	 }
+}
 }
 		.main{
 			display: flex;
@@ -72,7 +111,7 @@ a:hover{
 	 .main-4{
 	 	display: flex;
 	 	flex-wrap: wrap;
-	 	 justify-content: space-around;
+	 	 justify-content: space-between;
 	 	 background: center;
 	 }
 	 .main-8 {
@@ -104,12 +143,6 @@ a:hover{
 }
 .swiper2 {
 	width: auto;
-}
-.swiper-slide img{
-	max-width: 100%;
-}
-.swiper-wrapper{
-justify-content: space-around;
 }
 
 .swiper-slide{
@@ -343,6 +376,9 @@ color: #FFFFFF;}
 	body.lock{
 		overflow: hidden;
 	}
+	.inp{
+		justify-content: space-around;
+	}
 	.dir {
 		display: none;
 	}
@@ -495,4 +531,7 @@ color: #FFFFFF;}
 	 .main-8{
 	 	margin: 10px 0px 20px 0px;
 	 }
+	 	 .m4{
+		margin-bottom: 30px;
+		}
 }
