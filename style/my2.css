@@ -18,6 +18,11 @@ a:hover{
     font-family: Post No Bills Jaffna; /* Гарнитура шрифта */
     src: url('Post No Bills Jaffna Regular 400.ttf'); /* Путь к файлу со шрифтом */
    }
+
+		.swiper {
+	display: none;
+			}	
+
 @media(min-width: 768px){
 .main-7{
 	 	display: flex;
@@ -38,12 +43,6 @@ a:hover{
 			align-items: center;
 			flex-basis: 60%;
 			 }
-	.swiper {
-	display: none;
-			}
-	.swiper2 {
-	display: none;
-			}
 	.main-5.cont {
 			max-width: 60%; 	
 			 }
@@ -141,10 +140,9 @@ a:hover{
 .swiper {
 	width: auto;
 }
-.swiper2 {
-	width: auto;
-}
-
+.dir {
+		margin: 0px 10px;
+	}
 .swiper-slide{
 display: flex;
 justify-content: center;
@@ -220,7 +218,18 @@ height: 64px;
 	display: none;
 	width: 0p;
 }
-
+@media(max-width: 911px){
+		.dir {
+		display: none;
+	}
+		.swiper {
+			display: block;
+		}
+}
+.lo{
+	margin-right: 10px;
+	margin-left: 10px;
+}
 .lorem {
 	font-family: PT Sans;
 font-style: normal;
@@ -230,7 +239,6 @@ line-height: 150%;
 max-width: 700px;
 /* or 24px */
 text-align: center;
-
 color: #FFFFFF;
 }
 
@@ -265,7 +273,7 @@ font-style: normal;
 font-weight: normal;
 font-size: 18px;
 line-height: 24px;
-margin: 18px 0px 0px 0px;
+margin-top: 18px;
 color: #FFFFFF;
 }
 
@@ -378,9 +386,6 @@ color: #FFFFFF;}
 	}
 	.inp{
 		justify-content: space-around;
-	}
-	.dir {
-		display: none;
 	}
 	.main-4.inc {
 			width: 90%; 	

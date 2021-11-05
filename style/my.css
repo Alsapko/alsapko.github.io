@@ -26,6 +26,17 @@ display: flex;
 justify-content: center;
 margin: 0px 50px !important;
 }
+.swiper-pagination{
+	 	bottom: 0px !important;
+	 }
+	.swiper-pagination-bullet{
+		background-color: white !important; 
+		width: 	16px !important;
+		height: 16px !important;
+	}
+	.swiper-button-next, .swiper-button-prev{
+		color: white !important;
+	}
 .Louis1{
 	font-family: Playfair Display;
 font-style: normal;
@@ -64,17 +75,7 @@ color: #FFFFFF;
 	 	 justify-content: space-around;
 	 	 background: center;
 	 }
-	 .swiper-pagination{
-	 	bottom: 0px !important;
-	 }
-	.swiper-pagination-bullet{
-		background-color: white !important; 
-		width: 	16px !important;
-		height: 16px !important;
-	}
-	.swiper-button-next, .swiper-button-prev{
-		color: white !important;
-	}
+	 
 .wrapper{
 
 }
